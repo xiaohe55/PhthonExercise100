@@ -9,7 +9,7 @@
 
 l=[]
 for i in range(3):
-    x = input("请输入三个数:")
+    x = input("请输入%d个整数:"%i)
     l.append(x)
-l.sort(reverse=False)
+l.sort()
 print l
