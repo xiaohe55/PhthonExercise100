@@ -9,7 +9,7 @@
 def fib(n):
     resule = []
     a,b = 0,1
-    while b<n:
+    for i in range(n):
         resule.append(b)
         a,b=b,a+b
     return resule
