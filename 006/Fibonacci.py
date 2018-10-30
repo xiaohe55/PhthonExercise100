@@ -1,4 +1,4 @@
-#-*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 '''
 @author: heyongkang
@@ -6,11 +6,15 @@
 @file: Fibonacci.py
 @function: 斐波那契数列
 '''
+
+
 def fib(n):
     resule = []
-    a,b = 0,1
+    a, b = 0, 1
     for i in range(n):
         resule.append(b)
-        a,b=b,a+b
+        a, b = b, a + b
     return resule
-print fib(input("please input num:"))
+
+
+print(fib(int(input("please input num:"))))

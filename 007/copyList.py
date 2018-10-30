@@ -1,4 +1,4 @@
-#-*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 '''
 @author: heyongkang
@@ -7,11 +7,9 @@
 @function: 将一个列表的数据复制到另一个列表中。
 '''
 
-a=[1,2,3,4]
-b=a[:]
-print b
+a = [1, 2, 3, 4]
+b = a[:]
+print(b)
 a.append(5)
-print a
-print b
-
-
+print(a)
+print(b)

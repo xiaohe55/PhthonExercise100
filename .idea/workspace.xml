@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="484175dc-feea-49fd-ae46-df11798d5cfe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/007/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007/copyList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008/MultiplicationFormulas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PhthonExercise100.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PhthonExercise100.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/006/Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/006/Fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/007/copyList.py" beforeDir="false" afterPath="$PROJECT_DIR$/007/copyList.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +18,9 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PhthonExercise100$reverse.coverage" NAME="reverse Coverage Results" MODIFIED="1540818791614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/005" />
-    <SUITE FILE_PATH="coverage/PhthonExercise100$copyList.coverage" NAME="copyList Coverage Results" MODIFIED="1540863438471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/007" />
-    <SUITE FILE_PATH="coverage/PhthonExercise100$Fibonacci.coverage" NAME="Fibonacci Coverage Results" MODIFIED="1540821174661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/006" />
+    <SUITE FILE_PATH="coverage/PhthonExercise100$MultiplicationFormulas.coverage" NAME="MultiplicationFormulas Coverage Results" MODIFIED="1540864722301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008" />
+    <SUITE FILE_PATH="coverage/PhthonExercise100$copyList.coverage" NAME="copyList Coverage Results" MODIFIED="1540864728543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/007" />
+    <SUITE FILE_PATH="coverage/PhthonExercise100$Fibonacci.coverage" NAME="Fibonacci Coverage Results" MODIFIED="1540864761098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/006" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-710242758">
@@ -30,22 +34,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="3" />
+          <entry key="py" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="3" />
+          <entry key="Python" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="224" />
+          <entry key="py" value="353" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="224" />
+          <entry key="Python" value="353" />
         </counts>
       </usages-collector>
     </session>
@@ -70,23 +74,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/006/Fibonacci.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="317">
+              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
               <folding>
-                <marker date="1540821166768" expanded="true" signature="145:150" ph="..." />
+                <marker date="1540864917166" expanded="true" signature="148:153" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/007/copyList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="312">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/008/MultiplicationFormulas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -108,8 +121,9 @@
       <list>
         <option value="$PROJECT_DIR$/004/day4.py" />
         <option value="$PROJECT_DIR$/005/reverse.py" />
-        <option value="$PROJECT_DIR$/006/Fibonacci.py" />
+        <option value="$PROJECT_DIR$/008/MultiplicationFormulas.py" />
         <option value="$PROJECT_DIR$/007/copyList.py" />
+        <option value="$PROJECT_DIR$/006/Fibonacci.py" />
       </list>
     </option>
   </component>
@@ -120,8 +134,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="132" />
+    <option name="y" value="9" />
+    <option name="width" value="1064" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -142,17 +158,17 @@
             <path>
               <item name="PhthonExercise100" type="b2602c69:ProjectViewProjectNode" />
               <item name="PhthonExercise100" type="462c0819:PsiDirectoryNode" />
-              <item name="005" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PhthonExercise100" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PhthonExercise100" type="462c0819:PsiDirectoryNode" />
               <item name="006" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PhthonExercise100" type="b2602c69:ProjectViewProjectNode" />
               <item name="PhthonExercise100" type="462c0819:PsiDirectoryNode" />
               <item name="007" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PhthonExercise100" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhthonExercise100" type="462c0819:PsiDirectoryNode" />
+              <item name="008" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -162,6 +178,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -175,7 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.copyList">
+  <component name="RunManager" selected="Python.Fibonacci">
     <configuration name="Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PhthonExercise100" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,6 +207,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/006/Fibonacci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MultiplicationFormulas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PhthonExercise100" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/008" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/008/MultiplicationFormulas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,11 +308,13 @@
       <item itemvalue="Python.reverse" />
       <item itemvalue="Python.Fibonacci" />
       <item itemvalue="Python.copyList" />
+      <item itemvalue="Python.MultiplicationFormulas" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.copyList" />
         <item itemvalue="Python.Fibonacci" />
+        <item itemvalue="Python.copyList" />
+        <item itemvalue="Python.MultiplicationFormulas" />
         <item itemvalue="Python.reverse" />
         <item itemvalue="Python.day4" />
       </list>
@@ -366,20 +407,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/006/Fibonacci.py">
+    <entry file="file://$PROJECT_DIR$/008/MultiplicationFormulas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <marker date="1540821166768" expanded="true" signature="145:150" ph="..." />
-          </folding>
+        <state relative-caret-position="312">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/007/copyList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="312">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/006/Fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <marker date="1540864917166" expanded="true" signature="148:153" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
