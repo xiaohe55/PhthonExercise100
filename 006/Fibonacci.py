@@ -4,7 +4,7 @@
 @author: heyongkang
 @create: 2018/10/29-9:10 PM
 @file: Fibonacci.py
-@function: 斐波那契数列
+@function: 斐波那契数列和第11题一样
 '''
 
 
