@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="484175dc-feea-49fd-ae46-df11798d5cfe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/021/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/021/eatPeach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022/pingPangGame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +16,7 @@
     <SUITE FILE_PATH="coverage/PhthonExercise100$choiceWhat.coverage" NAME="choiceWhat Coverage Results" MODIFIED="1541209852024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PhthonExercise100$rabbit.coverage" NAME="rabbit Coverage Results" MODIFIED="1540951150027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/011" />
     <SUITE FILE_PATH="coverage/PhthonExercise100$NarcissisticNum.coverage" NAME="NarcissisticNum Coverage Results" MODIFIED="1541212944145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/013" />
-    <SUITE FILE_PATH="coverage/PhthonExercise100$eatPeach.coverage" NAME="eatPeach Coverage Results" MODIFIED="1542591382877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/021" />
+    <SUITE FILE_PATH="coverage/PhthonExercise100$eatPeach.coverage" NAME="eatPeach Coverage Results" MODIFIED="1542591456032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/021" />
     <SUITE FILE_PATH="coverage/PhthonExercise100$PrimeNum.coverage" NAME="PrimeNum Coverage Results" MODIFIED="1541427486113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/012" />
     <SUITE FILE_PATH="coverage/PhthonExercise100$sum.coverage" NAME="sum Coverage Results" MODIFIED="1542252156465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/018" />
     <SUITE FILE_PATH="coverage/PhthonExercise100$Fibonacci.coverage" NAME="Fibonacci Coverage Results" MODIFIED="1540951114899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/006" />
@@ -24,6 +24,7 @@
     <SUITE FILE_PATH="coverage/PhthonExercise100$factorization.coverage" NAME="factorization Coverage Results" MODIFIED="1541430493352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/014" />
     <SUITE FILE_PATH="coverage/PhthonExercise100$cycleTEst.coverage" NAME="cycleTEst Coverage Results" MODIFIED="1542251507317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/017" />
     <SUITE FILE_PATH="coverage/PhthonExercise100$sleep.coverage" NAME="sleep Coverage Results" MODIFIED="1540949121309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/009" />
+    <SUITE FILE_PATH="coverage/PhthonExercise100$pingPangGame.coverage" NAME="pingPangGame Coverage Results" MODIFIED="1542592458371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/022" />
     <SUITE FILE_PATH="coverage/PhthonExercise100$freeFall.coverage" NAME="freeFall Coverage Results" MODIFIED="1542332725221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020" />
     <SUITE FILE_PATH="coverage/PhthonExercise100$reverse.coverage" NAME="reverse Coverage Results" MODIFIED="1540864971131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/005" />
     <SUITE FILE_PATH="coverage/PhthonExercise100$MultiplicationFormulas.coverage" NAME="MultiplicationFormulas Coverage Results" MODIFIED="1540864722301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008" />
@@ -49,41 +50,32 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="23" />
+          <entry key="py" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="22" />
+          <entry key="Python" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="22" />
-          <entry key="dummy" value="8" />
-          <entry key="py" value="2200" />
+          <entry key="dummy" value="10" />
+          <entry key="py" value="2377" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Python" value="2222" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Python" value="2399" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/019/perfectNumber.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/020/freeFall.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -93,11 +85,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/021/eatPeach.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="288">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/022/pingPangGame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -201,6 +202,7 @@
         <option value="$PROJECT_DIR$/019/perfectNumber.py" />
         <option value="$PROJECT_DIR$/020/freeFall.py" />
         <option value="$PROJECT_DIR$/021/eatPeach.py" />
+        <option value="$PROJECT_DIR$/022/pingPangGame.py" />
       </list>
     </option>
   </component>
@@ -233,7 +235,7 @@
             <path>
               <item name="PhthonExercise100" type="b2602c69:ProjectViewProjectNode" />
               <item name="PhthonExercise100" type="462c0819:PsiDirectoryNode" />
-              <item name="021" type="462c0819:PsiDirectoryNode" />
+              <item name="022" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,29 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.eatPeach">
-    <configuration name="cycleTEst" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PhthonExercise100" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/017" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/017/cycleTEst.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.pingPangGame">
     <configuration name="eatPeach" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PhthonExercise100" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -346,6 +326,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pingPangGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PhthonExercise100" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/022" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/022/pingPangGame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PhthonExercise100" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -369,19 +371,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.cycleTEst" />
       <item itemvalue="Python.sum" />
       <item itemvalue="Python.perfectNumber" />
       <item itemvalue="Python.freeFall" />
       <item itemvalue="Python.eatPeach" />
+      <item itemvalue="Python.pingPangGame" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pingPangGame" />
         <item itemvalue="Python.eatPeach" />
         <item itemvalue="Python.freeFall" />
         <item itemvalue="Python.perfectNumber" />
         <item itemvalue="Python.sum" />
-        <item itemvalue="Python.cycleTEst" />
       </list>
     </recent_temporary>
   </component>
@@ -632,8 +634,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/021/eatPeach.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="288">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/022/pingPangGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
         </state>
       </provider>
     </entry>
